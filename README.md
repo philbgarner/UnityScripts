@@ -3,7 +3,7 @@ Collection of utility scripts I have created for myself in Unity.
 
 ## Contents
 
-###SceneData.cs
+### SceneData.cs
 
 SceneData Component Class
 
